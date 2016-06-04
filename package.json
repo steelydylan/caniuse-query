@@ -1,0 +1,17 @@
+{
+	"name": "caniuse-query",
+	"version": "0.0.4",
+	"main": "./index.js",
+	"description":"caniuse search api folked from caniuse-api",
+	"author":{
+		"name":"steelydylan",
+		"url":"http://horicdesign.com"
+	},
+	"dependencies": {
+		"caniuse-db":"*",
+		"browserslist":"*",
+		"lodash.memoize": "^2.4.1",
+    	"lodash.uniq": "^3.1.0"
+	},
+	"licenses": "MIT"
+}
