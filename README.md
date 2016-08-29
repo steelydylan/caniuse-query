@@ -1,7 +1,6 @@
 #caniuse-query
 
-CanIuse search module folked from caniuse-api
-developed for [http://www.caniuse-bot.com/](http://www.caniuse-bot.com/)
+Get browser support info from caniuse data used by [http://www.caniuse-bot.com/](http://www.caniuse-bot.com/)
 
 ##Features
 

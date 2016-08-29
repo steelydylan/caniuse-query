@@ -1,6 +1,6 @@
 {
 	"name": "caniuse-query",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"main": "./index.js",
 	"description":"caniuse search api folked from caniuse-api",
 	"author":{
